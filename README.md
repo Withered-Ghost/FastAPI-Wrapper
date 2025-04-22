@@ -77,5 +77,6 @@ Payload:
     "api": int,
     "body": {}
 }
+```
 
-Please view the documentation for each create agent API for the value of `body`
+Please view the documentation for each create agent API for the required keys in `body`
